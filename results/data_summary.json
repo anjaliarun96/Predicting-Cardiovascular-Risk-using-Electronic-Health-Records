@@ -1,0 +1,11 @@
+{
+  "n_raw": 70000,
+  "n_clean": 67941,
+  "n_features": 13,
+  "positive_rate": 0.49729912718388014,
+  "synthetic": false,
+  "xgboost": true,
+  "cv_folds": 10,
+  "male_rate": 0.5009451001806191,
+  "female_rate": 0.49533239679158925
+}
